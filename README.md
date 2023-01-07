@@ -6,7 +6,7 @@
 
 
 
-## Assuntos cobertos!
+## Assuntos cobertos
 
 - Como adicionar o typescript no projeto
 - Como adicionar pacotes e seus tipos (Express)
